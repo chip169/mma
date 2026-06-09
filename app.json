@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "com-se1937-he186118-buildapk",
+    "name": "comse1937-he186118-buildapk",
     "slug": "snack-0c7dd572-3092-4305-8770-f5b538e78873",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,6 +24,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6c0df5c7-6838-47cd-97e2-621cacd5bf6f"
+      }
     }
   }
 }
